@@ -1,0 +1,14 @@
+{
+  "rules": {
+    "color-no-invalid-hex": true,
+    "length-zero-no-unit": true,
+    "unit-no-unknown": true,
+    "declaration-block-no-duplicate-properties": true,
+    "comment-no-empty": true,
+    "no-eol-whitespace": true,
+    "no-extra-semicolons": true,
+    "declaration-block-semicolon-newline-after": "always",
+    "max-empty-lines": 2,
+    "max-nesting-depth": 6
+  }
+}
