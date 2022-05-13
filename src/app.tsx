@@ -6,7 +6,7 @@ import './app.scss'
 
 class App extends Component {
   componentDidMount() {
-    console.log('----第三次提交----')
+    console.log('----第四次提交----')
   }
 
   componentDidShow() {
